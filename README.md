@@ -1,6 +1,7 @@
 # Coin Counter with LCD Display
 <h2>Description</h2>
-This is a simple Arduino program that counts coins and displays the count on an LCD display using the I2C protocol.
+This is a simple Arduino program that counts coins and displays the count on an LCD display using the I2C protocol.<br>
+<b>Project at Tha Luang Cement Thai Anusorn Technical College (2017)</b>
 <h2>Prerequisites</h2>
 
 - Arduino board<br>
